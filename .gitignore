@@ -1,0 +1,10 @@
+node_modules
+log
+.idea
+.eslintrc.json
+*.map
+/*.log
+*.js
+!/gulpfile.js
+
+

@@ -1,0 +1,21 @@
+{
+    "name": "vscode-issue-restart",
+    "version": "1.0.0",
+    "description": "vscode-issue-restart",
+    "main": "src/app.js",
+    "scripts": {},
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/electrotype/vscode-issue-restart"
+    },
+    "license": "MIT",
+    "devDependencies": {
+        "@types/gulp": "^3.8.32",
+        "@types/gulp-nodemon": "0.0.29",
+        "gulp": "^3.9.1",
+        "gulp-nodemon": "^2.2.1",
+        "nodemon": "^1.7.3",
+        "typescript": "^2.1.4"
+    },
+    "dependencies": {}
+}
